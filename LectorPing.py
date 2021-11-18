@@ -1,7 +1,6 @@
-import time 
+#import time 
 import matplotlib.pyplot as plt
 name = input("Nombre del archivo con los valores del ping: ")
-print("C:/Users/nicol/OneDrive/Escritorio/" + name + ".txt")
 Vect = []
 tiempo = []
 i=1
